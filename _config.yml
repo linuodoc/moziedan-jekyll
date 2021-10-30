@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
+title: Dong Liang's CV
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+url: ''
+baseurl: ''
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,9 +23,9 @@ author:
   github: ddbullfrog
   linkedin: ddbullfrog
   twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /moziedan-jekyll/assets/img/avatar.JPG
   stackoverflow:
-#  stackoverflow: 4582127
+  #  stackoverflow: 4582127
   workHistory:
     - work1:
       company: XXX Ltd
